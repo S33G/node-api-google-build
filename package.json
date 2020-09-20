@@ -1,0 +1,8 @@
+{
+  "name": "node-api-google-build",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:charj/node-api-google-build.git",
+  "author": "Charlie <dev@charlie.fyi>",
+  "license": "MIT"
+}
